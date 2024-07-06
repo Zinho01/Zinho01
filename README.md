@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zinho01
-- 👀 I’m interested in HTML-CSS-JS PHP and V
-- 🌱 I’m currently learning JS-PHP
+- 👀 I’m interested in HTML-CSS-JS PHP
+- 🌱 I’m currently learning C# C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
