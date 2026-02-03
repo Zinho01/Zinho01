@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my secret project<br>👯 I’m looking to collaborate on any front-end project<br>🌱 I’m currently learning C C#<br>👀 I’m interested in Front end framework as well as back-end<br>💬 Ask me about my upcoming projects 
+🔭<br>👯 I’m looking to collaborate on any front-end project<br>🌱 I’m currently learning C C#<br>👀 I’m interested in Front end framework as well as back-end<br>💬 Ask me about my upcoming projects 
 
 
 ## 🌐 Socials:
